@@ -455,6 +455,27 @@
         width: 310px;
        
     }
-
-
+    .heading-text{
+        bottom: 100px;
+    }
+    .card{
+        margin-top: 300px;
+    }
+    .card-heading{
+        margin-left: -910px;
+    }
+    .card-text{
+        width: 400px;
+        height: 50px;
+        margin-left: -666px;
+    }
+    .card-container {
+    width: 500px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin: 50px auto;
+    padding: 20px;
+    margin-left: -172px;
+}
 }
