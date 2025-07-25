@@ -497,4 +497,20 @@
 .trusted-icon{
     display: none;
 }
+.latest_heading{
+   display: flex;
+    margin-top: 500px;
+    margin-left: -875px;
+    gap: 20px;
+}
+.latest_para{
+   width: 435px;
+    height: 16px;
+    margin-left: -895px;
+}
+.background_special{
+    display: flex;
+    margin-top: 500px;
+    margin-left: 171px;
+}
 }
