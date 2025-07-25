@@ -511,6 +511,17 @@
 .background_special{
     display: flex;
     margin-top: 500px;
-    margin-left: 171px;
+    margin-left: -70px;
+    flex-direction: column;
+}
+left-img{
+    display: flex;
+    flex-direction: column;
+    margin-left: -100px;
+}
+
+    
+.img-1{
+  
 }
 }
