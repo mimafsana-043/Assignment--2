@@ -478,4 +478,23 @@
     padding: 20px;
     margin-left: -172px;
 }
+.challenging_part{
+   display: flex;
+    flex-direction: column;
+    margin-left: -300px;
+    gap: 20px;
+    margin-top: 1080px;
+}
+.challenge-img{
+    order: 1;
+}
+.challenging_text{
+    order: 2;
+}
+.challenging_descrip{
+     color: #6c6b6b;
+}
+.trusted-icon{
+    display: none;
+}
 }
